@@ -40,3 +40,6 @@ In the final week of this Bootcamp, we will take a look at what Authentication a
 
 ## Contact
 In case of doubts related to the Bootcamp, feel free to reach out to the mentors on the [**#doubts**](https://teams.microsoft.com/l/channel/19%3a6e5ce5031c594c34927026726a750f12%40thread.tacv2/%255BRuby%2520on%2520Rails%255D%2520Doubts?groupId=ebcdbf1c-6b25-48f4-9dfc-9f5e3666cc00&tenantId=36e917dc-1abe-43f4-b189-f92196a6b4ad) channel in the MS Team.
+
+
+https://drive.google.com/file/d/1oTYbDXfi38Ec6VlOXc7wVlRGWMgUsiPV/view?usp=sharing
